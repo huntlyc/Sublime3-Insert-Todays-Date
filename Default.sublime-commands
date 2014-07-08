@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Date: Insert Todays",
+        "command": "insert_todays_date"
+    }
+]

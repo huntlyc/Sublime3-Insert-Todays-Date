@@ -1,0 +1,4 @@
+{
+    //check out https://docs.python.org/2/library/datetime.html#strftime-and-strptime-behavior
+    "hdate_format" : "%d/%m/%Y"
+}
